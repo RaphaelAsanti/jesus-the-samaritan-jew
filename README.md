@@ -38,7 +38,7 @@ Open the live site URL above (GitHub Pages) or browse the ebook link for extende
 This work is distributed under the license in the repository: [LICENSE](./LICENSE)
 
 ## Author
-Raphael E. Asanti — July 2026
+Raphael E. Asanti — August 2026
 
 ## Donate
 This work is sustained entirely by voluntary contributions. Thank you for considering support.
