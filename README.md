@@ -1,6 +1,6 @@
 # Jesus The Samaritan Jew — Structural Overview
 
-[Live site](https://raphaelasanti.github.io/jesus-the-samaritan-jew/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/endoftime/) • [License](./LICENSE)
+[Live site](https://raphaelasanti.github.io/jesus-the-samaritan-jew/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/the-end-of-time/) • [License](./LICENSE)
 
 A concise structural overview of Samaritan Torah practice in the first century and how this context clarifies the narrative patterns in the gospels. This project hosts a short interpretive page presenting the historical and textual framework that makes Jesus’s ministry straightforward when read through Samaritan Judaism.
 
