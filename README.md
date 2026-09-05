@@ -5,8 +5,7 @@
 A concise structural overview of Samaritan Torah practice in the first century and how this context clarifies the narrative patterns in the gospels. This project hosts a short interpretive page presenting the historical and textual framework that makes Jesus’s ministry straightforward when read through Samaritan Judaism.
 
 ---
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nd/4.0/)
-[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/jesus-the-samaritan-jew/)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/jesus-the-samaritan-jew/)
 
 ---
 
